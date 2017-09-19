@@ -1,5 +1,5 @@
 # itsok
 none
 
-<<<<<<< HEAD
+
 ## hot
