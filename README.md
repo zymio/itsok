@@ -1,5 +1,7 @@
 # itsok
 none
 
-<<<<<<< HEAD
+
 ## hot
+
+bendi
